@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asilva1604
 - 👀 I’m interested in Web Development, Low Level Development, and everything you throw at me! I'm someone who will like anything if it is of any challenge!
 - 🌱 I’m currently learning Laravel, to further improve my WebDev skills!
-- 📫 Reach me via asilva@outlook.com, or my Instagram @alexandresilva_16
+- 📫 Reach me via asilva1604@outlook.com, or my Instagram @alexandresilva_16
 - ⚡ Fun fact: I am obessed with Sweden!
 
 <!---
